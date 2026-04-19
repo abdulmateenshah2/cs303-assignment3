@@ -6,12 +6,12 @@
 
 ## How to Run
 
-1. Compile all Java files
+1. Compile all Java files with `javac *.java`
 2. Run each file separately:
 
-- `Main.java` → Question 1 (Queue implementation)
-- `RecursiveSearch.java` → Question 2 (Recursive search)
-- `QueueInsertionSort.java` → Question 3 (Insertion sort)
+- Main.java → Question 1 (Queue implementation) `java Main`
+- RecursiveSearch.java → Question 2 (Recursive search) `java RecursiceSearch`
+- QueueInsertionSort.java → Question 3 (Insertion sort) `java QueueInerstionSort`
 
 ---
 
